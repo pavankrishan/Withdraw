@@ -1,0 +1,18 @@
+.btn {
+  background-color: #585076;
+  border: 2px solid gray;
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 30px;
+  flex-shrink: 1;
+  list-style-type: none;
+}
+.listCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 10px;
+}
